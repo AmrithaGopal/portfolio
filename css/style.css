@@ -1,0 +1,19 @@
+/* author: Amritha Gopal*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main {
+    background-color: rgb(181, 202, 202);
+}
+.pic {
+    width: 70%;
+}
+.social-pic {
+    width: 3%;
+}
+
+.img:hover {
+    transform: scale(2.5);
+}
